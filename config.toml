@@ -1,0 +1,27 @@
+baseurl = "https://legionviking.se/"
+title = "Legion Viking"
+theme = "legv"
+languageCode = "sv"
+enableRobotsTXT = true
+diary = "Dagbok"
+
+[menu]
+  [[menu.header]]
+    name = "dokument"
+    weight = 3
+    url = "/docs"
+  [[menu.header]]
+    name = "dagbok"
+    weight = 2
+    url = "/diary"
+  [[menu.header]]
+    name = "moddlistor"
+    weight = 1
+    url = "/mods"
+
+[params]
+  Name = "Legion Viking"
+  HeaderUsername = "legionär"
+  HeaderHostname = "legionviking"
+  About = "Ännu en arma community från Sverige."
+  ProfilePicture = "/logo.png"

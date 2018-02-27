@@ -1,0 +1,11 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+baseURL = "https://legionviking.se/"
+canonifyURLs = true
+title = "Legion Viking"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
