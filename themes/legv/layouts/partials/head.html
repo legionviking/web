@@ -18,22 +18,3 @@
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Inconsolata|Open+Sans|Roboto|Montserrat|Concert+One" rel="stylesheet">
-
-{{ if and (.Site.Params.MatomoTrackerURL) (.Site.Params.MatomoSiteID) }}
-{{ $MatomoUrl := .Site.Params.MatomoTrackerURL }}
-{{ $SiteID := .Site.Params.MatomoSiteID }}
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-      var u="{{ $MatomoUrl }}";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-      _paq.push(['setSiteId', {{ $SiteID }}]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
-{{end}}
