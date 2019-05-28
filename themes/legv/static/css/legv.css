@@ -145,3 +145,8 @@ th, td {
 .kampanj a {
     color: #D18F21;
 }
+
+@font-face {
+  font-family: legv;
+  src: url(../fonts/the_great_escape.ttf) format('truetype');
+} 
