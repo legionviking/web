@@ -11,7 +11,7 @@
 		{{ partial "header.html" . }}
 		<div class="container wrapper">
 			<ul id="post-list">
-{{ range (.Paginator.Pages).Reverse }}
+{{ range .Paginator.Pages.ByParam "index" }}
 				<li>
 					<div class="post-list-item">
 						<div class="post-header">
