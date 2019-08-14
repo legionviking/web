@@ -4,6 +4,7 @@ theme = "legv"
 languageCode = "sv"
 enableRobotsTXT = true
 diary = "Dagbok"
+paginate = 20
 
 [menu]
   [[menu.header]]
