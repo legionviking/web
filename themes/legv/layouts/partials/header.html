@@ -19,8 +19,17 @@
 				</li>
 				{{ range .Site.Menus.header }}
 				{{ $name := lower .Name }}
-				<li >
+                <li class="dropdown">
+                    {{ if .HasChildren }}
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">~/{{ $name }} <span class="caret"></span></a>
+		            <ul class="dropdown-menu">
+		                {{ range .Children }}
+                        <li><a href="{{ .URL }}">~/{{ $name}}/{{ lower .Name }}</a></li>
+		                {{ end }}
+		            </ul>
+                    {{ else }}
 					<a href="{{ .URL }}">~/{{ lower .Name }}</a>
+                    {{ end }}
 				</li>
 				{{end}}
 

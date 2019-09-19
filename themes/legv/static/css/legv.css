@@ -10,7 +10,7 @@ body {
 	background-color: #fdfdfd;
 	height: 100%;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	padding-top: 70px;
 }
 
@@ -146,7 +146,57 @@ th, td {
     color: #D18F21;
 }
 
+.timeline-container {
+  max-width: 1024px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.timeline-item {
+  padding: 1.5em 2em 0.1em 2em;
+  position: relative;
+  color: rgba(0, 0, 0, 0.7);
+  border-left: 2px solid black;
+}
+.timeline-item p {
+  font-size: 1em;
+}
+.timeline-item::before {
+  content: attr(date-is);
+  position: absolute;
+  left: 2em;
+  font-weight: bold;
+  top: 1em;
+  display: block;
+  font-weight: 700;
+}
+.timeline-item::after {
+  width: 10px;
+  height: 10px;
+  display: block;
+  top: 1em;
+  position: absolute;
+  left: -7px;
+  border-radius: 10px;
+  content: '';
+  border: 2px solid black;
+  background: white;
+}
+.timeline-item:last-child {
+  -o-border-image: linear-gradient(to bottom, black 60%, rgba(0, 0, 0, 0)) 1 100%;
+     border-image: linear-gradient(to bottom, black 60%, rgba(0, 0, 0, 0)) 1 100%;
+}
+.timeline-item:first-child {
+  -o-border-image: linear-gradient(to top, black 60%, rgba(0, 0, 0, 0)) 1 100%;
+     border-image: linear-gradient(to top, black 60%, rgba(0, 0, 0, 0)) 1 100%;
+}
+
+hr {
+    border-width: 2px;
+}
+
+
 @font-face {
   font-family: legv;
   src: url(../fonts/the_great_escape.ttf) format('truetype');
-} 
+}

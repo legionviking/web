@@ -9,8 +9,17 @@ paginate = 20
 [menu]
   [[menu.header]]
     name = "dokument"
-    weight = 3
+    weight = 4
     url = "/docs"
+  [[menu.header]]
+    name = "tidslinje"
+    weight = 3
+    url = "/timeline"
+  [[menu.header]]
+    name = "vietnam"
+    parent = "dagbok"
+    weight = 1
+    url = "/vietnam"
   [[menu.header]]
     name = "dagbok"
     weight = 2
