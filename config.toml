@@ -12,7 +12,7 @@ paginate = 20
     weight = 4
     url = "/docs"
   [[menu.header]]
-    name = "tidslinje"
+    name = "historia"
     weight = 3
     url = "/timeline"
   [[menu.header]]
