@@ -199,3 +199,10 @@ hr {
   font-family: legv;
   src: url(../fonts/the_great_escape.ttf) format('truetype');
 }
+
+.center-div
+{
+     margin: 0 auto;
+     width: 100%; 
+     text-align: center;
+}

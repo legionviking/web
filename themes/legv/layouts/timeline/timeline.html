@@ -17,6 +17,9 @@
     <body>
         {{ partial "header.html" . }}
         <div id="timeline-content">
+            <div class="center-div">
+            <h1>En sammanställning av Legionens historia</h1>
+            </div>
             <div class="timeline-container">
                 {{ range $.Site.Data.missions.timeline.recap }}
                 <div class="timeline-item" date-is='{{ .time }}'>
