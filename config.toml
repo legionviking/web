@@ -11,10 +11,10 @@ paginate = 20
     name = "dokument"
     weight = 4
     url = "/docs"
-#  [[menu.header]]
-#    name = "tidslinje"
-#    weight = 3
-#    url = "/timeline"
+  [[menu.header]]
+    name = "tidslinje"
+    weight = 3
+    url = "/timeline"
   [[menu.header]]
     name = "vietnam"
     parent = "dagbok"
