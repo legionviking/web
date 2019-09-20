@@ -10,7 +10,6 @@ body {
 	background-color: #fdfdfd;
 	height: 100%;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1.2em;
 	padding-top: 70px;
 }
 
@@ -168,7 +167,7 @@ th, td {
   font-weight: bold;
   top: 1em;
   display: block;
-  font-weight: 700;
+  font-weight: bold;
 }
 .timeline-item::after {
   width: 10px;
