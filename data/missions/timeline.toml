@@ -4,7 +4,12 @@
     "location" = "Nassau"
     "description" = "Carolus af Knuting tar sitt \"Vikingaregemente\" för att undersöka oroligheterna i koloniöarna kring Nassau."
 [[recap]]
-    "time" = "1945"
+    "time" = "1941 - 1945"
+    "operation" = "Kommandogrupp Viking: Dolda och Farliga"
+    "location" = "Europa"
+    "description" = "Kommandogrupp Viking sätter sina spår i Europa under andra världskriget."
+[[recap]]
+    "time" = "1945, Oktober"
     "operation" = "Oktoberfest"
     "location" = "Poland"
     "description" = "Legionen utför en specialinsats i Polen för att hindra att topphemliga forsknigsdokument kring \"Project Triglav\" hamnar i den avancerade sovietunionens händer."

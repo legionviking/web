@@ -21,6 +21,11 @@ paginate = 20
     weight = 1
     url = "/vietnam"
   [[menu.header]]
+    name = "ww2"
+    parent =  "dagbok"
+    weight = 2
+    url = "/ww2"
+  [[menu.header]]
     name = "dagbok"
     weight = 2
     url = "/diary"

@@ -196,8 +196,13 @@ hr {
 
 
 @font-face {
-  font-family: legv;
+  font-family: legv-viet;
   src: url(../fonts/the_great_escape.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: legv-ww2;
+  src: url(../fonts/atwriter.ttf) format('truetype');
 }
 
 .center-div

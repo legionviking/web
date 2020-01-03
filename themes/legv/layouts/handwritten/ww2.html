@@ -7,7 +7,7 @@
         {{ partial "head.html" . }}
 <style>
 p {
-    font-size: 3em;
+    font-family: legv-ww2;
 }
 </style>
     </head>
@@ -15,7 +15,6 @@ p {
     <body>
         {{ partial "header.html" . }}
         <div class="container wrapper">
-            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
             <!--<span class="post-date">{{ .Date.Format "Jan 2, 2006 " }}</span>-->
             <div class="post-content">
                 {{ .Content }}
@@ -26,6 +25,6 @@ p {
                 {{ template "_internal/disqus.html" . }}
             </div>
             {{ end }}
-            <div class="push"></div>
+            <a href="{{ (.Section | urlize) | absLangURL }}/">Tillbaka</a>
         </div>
     </body>
