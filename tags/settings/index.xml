@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>settings on Legion Viking</title>
+    <link>https://legionviking.se/tags/settings/</link>
+    <description>Recent content in settings on Legion Viking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/tags/settings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uppdragsmakeri: Legionviking Ace Settings.</title>
+      <link>https://legionviking.se/docs/acesettings/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/acesettings/</guid>
+      <description>// ACE Advanced Ballistics ace_advanced_ballistics_ammoTemperatureEnabled = true; ace_advanced_ballistics_barrelLengthInfluenceEnabled = true; ace_advanced_ballistics_bulletTraceEnabled = true; ace_advanced_ballistics_enabled = false; ace_advanced_ballistics_muzzleVelocityVariationEnabled = true; ace_advanced_ballistics_simulationInterval = 0.05; // ACE Advanced Fatigue ace_advanced_fatigue_enabled = true; ace_advanced_fatigue_enableStaminaBar = true; force ace_advanced_fatigue_loadFactor = 0.735293; force ace_advanced_fatigue_performanceFactor = 2.48069; force ace_advanced_fatigue_recoveryFactor = 2.48069; force ace_advanced_fatigue_terrainGradientFactor = 0.698159; // ACE Advanced Throwing ace_advanced_throwing_enabled = true; ace_advanced_throwing_enablePickUp = true; ace_advanced_throwing_enablePickUpAttached = true; ace_advanced_throwing_showMouseControls = true; ace_advanced_throwing_showThrowArc = true; // ACE Arsenal ace_arsenal_allowDefaultLoadouts = true; ace_arsenal_allowSharedLoadouts = true; ace_arsenal_camInverted = false; ace_arsenal_enableModIcons = true; ace_arsenal_EnableRPTLog = false; ace_arsenal_fontHeight = 4.</description>
+    </item>
+    
+  </channel>
+</rss>

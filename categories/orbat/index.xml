@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>orbat on Legion Viking</title>
+    <link>https://legionviking.se/categories/orbat/</link>
+    <description>Recent content in orbat on Legion Viking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/categories/orbat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uppdragsmakeri: Lärdommar från Orbat Viewern.</title>
+      <link>https://legionviking.se/docs/orbatview/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/orbatview/</guid>
+      <description>Arma 3 har ett ganska så roligt verktyg som kallas för ORBAT Viewer, där man kan visualisera hur ens trupper är uppdelade i grupper osv (det måste inte vara exlusivt det som är ute i fält).
+\
+Länk till dokumentationen: https://community.bistudio.com/wiki&amp;hellip;
+Länk till hjälpsamt youtubeklipp: https://www.youtube.com/watch?v=28e&amp;hellip;
+\
+Efter att ha lagt alldeles för många timmar på att få det att funka i ett testuppdrag så har jag fått en liten lista med gotchas som är bra att hålla koll på.</description>
+    </item>
+    
+  </channel>
+</rss>

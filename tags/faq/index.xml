@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>faq on Legion Viking</title>
+    <link>https://legionviking.se/tags/faq/</link>
+    <description>Recent content in faq on Legion Viking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uppdragsmakeri: Vanliga problem och lösningar.</title>
+      <link>https://legionviking.se/docs/commmonprob/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/commmonprob/</guid>
+      <description>Här tänkte jag att vi uppdragsmakare kan posta lite vanliga problem (med lösningar) som kan dyka upp när man gör uppdrag så att man slipper googla runt och felsöka saker som de andra redan har löst. Det är bara att fylla på när ni har stött på ett problem som ni har löst. (Hjälp med problemlösning kan man få i uppdragsmakar-gruppchatten, säg till så blir ni inbjudna).
+\
+PROBLEM: “Hjälp! när vi ska köra uppdraget på dedicated så blir det bara en tanoa-laddningsbild och det blir kaos i 40 minuter och sen måste vi köra gungame!</description>
+    </item>
+    
+  </channel>
+</rss>

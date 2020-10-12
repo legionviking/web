@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Legion Viking</title>
+    <link>https://legionviking.se/tags/</link>
+    <description>Recent content in Tags on Legion Viking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arma</title>
+      <link>https://legionviking.se/tags/arma/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/arma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>settings</title>
+      <link>https://legionviking.se/tags/settings/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/settings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uppdragsmakare</title>
+      <link>https://legionviking.se/tags/uppdragsmakare/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/uppdragsmakare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>checklist</title>
+      <link>https://legionviking.se/tags/checklist/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/checklist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>faq</title>
+      <link>https://legionviking.se/tags/faq/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dagbok</title>
+      <link>https://legionviking.se/tags/dagbok/</link>
+      <pubDate>Sat, 04 Jan 1969 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/dagbok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vietnam</title>
+      <link>https://legionviking.se/tags/vietnam/</link>
+      <pubDate>Sat, 07 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ww2</title>
+      <link>https://legionviking.se/tags/ww2/</link>
+      <pubDate>Fri, 16 Mar 1945 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/tags/ww2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

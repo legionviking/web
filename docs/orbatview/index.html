@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Uppdragsmakeri: Lärdommar från Orbat Viewern. &middot; Legion Viking </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.76.3" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://legionviking.se/css/legv.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Open+Sans|Roboto|Montserrat|Concert+One" rel="stylesheet">
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://legionviking.se/>legionär@legionviking ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://legionviking.se/">~/</a>
+				</li>
+				
+				
+                <li class="dropdown">
+                    
+					<a href="/mods">~/moddar</a>
+                    
+				</li>
+				
+				
+                <li class="dropdown">
+                    
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">~/dagbok <span class="caret"></span></a>
+		            <ul class="dropdown-menu">
+		                
+                        <li><a href="/vietnam">~/dagbok/vietnam</a></li>
+		                
+                        <li><a href="/ww2">~/dagbok/ww2</a></li>
+		                
+                        <li><a href="/africa">~/dagbok/afrika</a></li>
+		                
+		            </ul>
+                    
+				</li>
+				
+				
+                <li class="dropdown">
+                    
+					<a href="/timeline">~/historia</a>
+                    
+				</li>
+				
+				
+                <li class="dropdown">
+                    
+					<a href="/docs">~/dokument</a>
+                    
+				</li>
+				
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://legionviking.se/docs/orbatview/">Uppdragsmakeri: Lärdommar från Orbat Viewern.</a></h1>
+            
+            <div class="post-content">
+                <p>Arma 3 har ett ganska så roligt verktyg som kallas för ORBAT Viewer, där man kan visualisera hur ens trupper är uppdelade i grupper osv (det måste inte vara exlusivt det som är ute i fält).</p>
+<p>\<br>
+Länk till dokumentationen: <a href="https://community.bistudio.com/wiki/ORBAT_Viewer">https://community.bistudio.com/wiki&hellip;</a></p>
+<p>Länk till hjälpsamt youtubeklipp: <a href="https://www.youtube.com/watch?v=28e4RUhkjPs">https://www.youtube.com/watch?v=28e&hellip;</a></p>
+<p>\<br>
+Efter att ha lagt alldeles för många timmar på att få det att funka i ett testuppdrag så har jag fått en liten lista med gotchas som är bra att hålla koll på.</p>
+<ol>
+<li>
+<p><strong>ALiVE och ORBAT viewer leker lite konstigt tillsammans.</strong> \<br>
+En sak att tänka på när man har sin ORBAT modul på kartan är att det inte riktigt fungerar som utlovat för att få upp rutan. Det står i dokumentationen att man bara ska klicka, visst det funkar nog i vanilla. Men med ALiVE så har jag fått upp en del problem med detta. I stället har jag behövt hålla inne Ctrl + Alt och sen klicka (samma som för ALiVE permanent marker) för att få upp rutan.</p>
+</li>
+<li>
+<p><strong>ORBAT ikonerna på kartan kan vara i det största laget.</strong> \<br>
+Ikonerna skalar inte ner direkt, så se till att du är medveten om storlekarna på ikonerna när du lägger ut dessa så att de inte täcker för stor del av kartan. Detta gäller dock bara för custom texturer och inte för vanilla.</p>
+</li>
+<li>
+<p><strong>Se till att lägga “color” efter “texture” och “insigniaColor” efter “insignia”.</strong> \<br>
+Jag hade ofattbart mycket problem som till synes var för att jag hade color och insigniacolor före sina respektive texturer. Nu kan jag inte garantera att det är ett problem, men för säkerhets skull så är detta en bra tumregel att ha.</p>
+</li>
+<li>
+<p><strong>Absoluta sökvägar till texturer.</strong> \<br>
+Sökvägar till texturer och insignias måste vara absoluta, detta kan vara lite problematiskt för MP uppdrag, men såhär har jag löst det:
+texture = __EVAL((<strong>FILE</strong> select [0, count <strong>FILE</strong> - 15]) + &ldquo;tex\legv&rdquo;);
+Notera att tex är mappen som texturen ligger i och legv.paa är loggan (skrivs utan .paa)</p>
+</li>
+<li>
+<p><strong>Inga radbrytningar i textfälten.</strong> \<br>
+Tyvärr så verkar man inte kunna radbryta i textfältet varesig genom att skriva \n eller genom att ha ett faktiskt enterslag.</p>
+</li>
+<li>
+<p><strong>Texturer som DXT5.</strong> \<br>
+Detta är inte lag, men jag har haft problem med texturer som inte är sparade (i text2View) som DXT5. Men det kan mycket väl vara jag som hade otur med mina texturer.</p>
+</li>
+</ol>
+
+            </div>
+            
+            <div class="post-comments">
+                
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+<p>Copyright &copy; 2020 Legion Viking -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="">Legion Viking</a> theme.
+</span>
+</p>
+</footer>
+
+    </body>

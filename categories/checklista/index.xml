@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>checklista on Legion Viking</title>
+    <link>https://legionviking.se/categories/checklista/</link>
+    <description>Recent content in checklista on Legion Viking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/categories/checklista/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uppdragsmakerig: Att använda det nya ACE-systemet. (UPPDATERAT).</title>
+      <link>https://legionviking.se/docs/useace/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/useace/</guid>
+      <description>UPPDATERING: Våra ACE-inställningar bör nu ligga serverside och därmed behöver ni inga ACE-moduler eller inställningar i uppdragen längre förutom Rallypoint-modulen. Enda undantaget är om ni vill overrida någon ACE-inställning specifikt för erat uppdrag, annars slipper ni.
+\
+Om jag har förstått det hela rätt så ställer man numera in allt (förutom vissa enstaka moduler som rallypointsystemet som ska synkas med units) i Addon Options. Här kan man välja vilka settings man vill ändra specifikt för uppdraget och vad som ska vara default etc.</description>
+    </item>
+    
+    <item>
+      <title>Uppdragsmakeri: Checklist för uppdragstest.</title>
+      <link>https://legionviking.se/docs/checklist/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/checklist/</guid>
+      <description>När man snickrar ihop uppdrag är det en del att hålla reda på, och det är lätt att man missar någon grundläggande grejer som är störig att upptäcka när vi väl har kört igång, därför författar vi nu ihop en liten checklist med saker som är viktiga att kolla som man lätt kan glömma. (Bara att fylla på om ni kommer på något).
+  Startar uppdraget på dedikerade servern? \</description>
+    </item>
+    
+  </channel>
+</rss>

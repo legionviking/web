@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legion Viking</title>
+    <link>https://legionviking.se/</link>
+    <description>Recent content on Legion Viking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ett land i kris</title>
+      <link>https://legionviking.se/africa/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/africa/</guid>
+      <description>ett reportage från Anizayregionen av Joakim Medin
+När man talar om Anizayregionen uppstår ofta förvirring då både denna oljerika region och landet bär samma namn. Landet som nu heter Anizay kallades fram till 2003 för &amp;quot;Folkrepubliken Kukundu&amp;quot; men bytte namn i ett förvirrat försök att blidka den muslimska minoriteten i landet efter folkmorden och inbördeskrigen på 90talet där över tio tusen muslimer och folk från nomadkulturen dödades, då Anizay-regionen ses som landets hjärta av den muslimska befolkningen.</description>
+    </item>
+    
+    <item>
+      <title>Tidslinje</title>
+      <link>https://legionviking.se/timeline/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moddlistor</title>
+      <link>https://legionviking.se/mods/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/mods/</guid>
+      <description>Här under levereras moddlistor för Legion Viking!
+Nuvarande Kampanj    Kampanjnamn Land Skapare Status     Ett land i kris Afrika Ftmch Nuvarande   Operation Kenny Starfighter Rymden Ftmch Kommande   Operation Inte Skära Bara Rispa Ruha Ftmch Kommande    Tidigare Kampanjer    Kampanjnamn Land Skapare Status     Kommandogrupp Viking: Dolda och Farliga Europa Ftmch Avslutad   Operation Helvetti Finland Kapten Ringefors Avslutad   Halloween 2019 Nassau Ftmch Avslutad   Tillbaka till Vietnam Vietnam Ftmch Avslutad   Borta bra men hemma bäst Sweden Prosten Avslutad   Finland Finland Kapten Ringefors Avslutad   Europa 18 Chernarus Volkpartiet Avslutad   Operation Castorea Takistan Ftmch Avslutad   Tillbaka till Tanoa Tanoa Ftmch Avslutad   Flykten Okänd plats Ftmch Avslutad   80-Talet All over the map Ftmch Avslutad   Esseker Esseker Volkpartiet Avslutad   Sandorm Takistan Prosten Avslutad   Loco Haram Tanoa Kapten Ringefors Avslutad   Oktoberfest Polen Ftmch Avslutad   Vietnam Vietnam Ftmch Avslutad   Altis Altis Ftmch Avslutad   Podagorsk Podagorsk Ventris Avslutad   Takistan Takistan Ftmch Avslutad     </description>
+    </item>
+    
+    <item>
+      <title>Uppdragsmakeri: Legionviking Ace Settings.</title>
+      <link>https://legionviking.se/docs/acesettings/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/acesettings/</guid>
+      <description>// ACE Advanced Ballistics ace_advanced_ballistics_ammoTemperatureEnabled = true; ace_advanced_ballistics_barrelLengthInfluenceEnabled = true; ace_advanced_ballistics_bulletTraceEnabled = true; ace_advanced_ballistics_enabled = false; ace_advanced_ballistics_muzzleVelocityVariationEnabled = true; ace_advanced_ballistics_simulationInterval = 0.05; // ACE Advanced Fatigue ace_advanced_fatigue_enabled = true; ace_advanced_fatigue_enableStaminaBar = true; force ace_advanced_fatigue_loadFactor = 0.735293; force ace_advanced_fatigue_performanceFactor = 2.48069; force ace_advanced_fatigue_recoveryFactor = 2.48069; force ace_advanced_fatigue_terrainGradientFactor = 0.698159; // ACE Advanced Throwing ace_advanced_throwing_enabled = true; ace_advanced_throwing_enablePickUp = true; ace_advanced_throwing_enablePickUpAttached = true; ace_advanced_throwing_showMouseControls = true; ace_advanced_throwing_showThrowArc = true; // ACE Arsenal ace_arsenal_allowDefaultLoadouts = true; ace_arsenal_allowSharedLoadouts = true; ace_arsenal_camInverted = false; ace_arsenal_enableModIcons = true; ace_arsenal_EnableRPTLog = false; ace_arsenal_fontHeight = 4.</description>
+    </item>
+    
+    <item>
+      <title>Uppdragsmakerig: Att använda det nya ACE-systemet. (UPPDATERAT).</title>
+      <link>https://legionviking.se/docs/useace/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/useace/</guid>
+      <description>UPPDATERING: Våra ACE-inställningar bör nu ligga serverside och därmed behöver ni inga ACE-moduler eller inställningar i uppdragen längre förutom Rallypoint-modulen. Enda undantaget är om ni vill overrida någon ACE-inställning specifikt för erat uppdrag, annars slipper ni.
+\
+Om jag har förstått det hela rätt så ställer man numera in allt (förutom vissa enstaka moduler som rallypointsystemet som ska synkas med units) i Addon Options. Här kan man välja vilka settings man vill ändra specifikt för uppdraget och vad som ska vara default etc.</description>
+    </item>
+    
+    <item>
+      <title>Uppdragsmakeri: Checklist för uppdragstest.</title>
+      <link>https://legionviking.se/docs/checklist/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/checklist/</guid>
+      <description>När man snickrar ihop uppdrag är det en del att hålla reda på, och det är lätt att man missar någon grundläggande grejer som är störig att upptäcka när vi väl har kört igång, därför författar vi nu ihop en liten checklist med saker som är viktiga att kolla som man lätt kan glömma. (Bara att fylla på om ni kommer på något).
+  Startar uppdraget på dedikerade servern? \</description>
+    </item>
+    
+    <item>
+      <title>Uppdragsmakeri: Lärdommar från Orbat Viewern.</title>
+      <link>https://legionviking.se/docs/orbatview/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/orbatview/</guid>
+      <description>Arma 3 har ett ganska så roligt verktyg som kallas för ORBAT Viewer, där man kan visualisera hur ens trupper är uppdelade i grupper osv (det måste inte vara exlusivt det som är ute i fält).
+\
+Länk till dokumentationen: https://community.bistudio.com/wiki&amp;hellip;
+Länk till hjälpsamt youtubeklipp: https://www.youtube.com/watch?v=28e&amp;hellip;
+\
+Efter att ha lagt alldeles för många timmar på att få det att funka i ett testuppdrag så har jag fått en liten lista med gotchas som är bra att hålla koll på.</description>
+    </item>
+    
+    <item>
+      <title>Uppdragsmakeri: Vanliga problem och lösningar.</title>
+      <link>https://legionviking.se/docs/commmonprob/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/commmonprob/</guid>
+      <description>Här tänkte jag att vi uppdragsmakare kan posta lite vanliga problem (med lösningar) som kan dyka upp när man gör uppdrag så att man slipper googla runt och felsöka saker som de andra redan har löst. Det är bara att fylla på när ni har stött på ett problem som ni har löst. (Hjälp med problemlösning kan man få i uppdragsmakar-gruppchatten, säg till så blir ni inbjudna).
+\
+PROBLEM: “Hjälp! när vi ska köra uppdraget på dedicated så blir det bara en tanoa-laddningsbild och det blir kaos i 40 minuter och sen måste vi köra gungame!</description>
+    </item>
+    
+    <item>
+      <title>4 januari 1969</title>
+      <link>https://legionviking.se/vietnam/1969-01-04/</link>
+      <pubDate>Sat, 04 Jan 1969 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1969-01-04/</guid>
+      <description>Kungen i Djungelns dagbok4 januari 1969.
+Äntligen, information om var Willard kan befinna sig. En av de amerikanska soldaterna vi lyckades befria från vietnamesernas klor igår; menige Ryan var med Willard när han anslöt sig till fienden för nästan ett halvår sedan och förråde legionärerna. Eller, han försökte desertera strax innan eftersom han anade oråd, Willard hade hävdat att de skulle på ”fredsmöte” med de lokala ledarna för byarna men Ryan visste bättre, smart grabb, han och två kamrater avvek för att försöka återvända till våra linjer.</description>
+    </item>
+    
+    <item>
+      <title>3 januari 1969</title>
+      <link>https://legionviking.se/vietnam/1969-01-03/</link>
+      <pubDate>Fri, 03 Jan 1969 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1969-01-03/</guid>
+      <description>Kungen i Djungelns dagbok3 januari 1969.
+Jag insåg denna morgon att det är flera månader jag sist skrev något här, tiden förflyter annorlunda här ute, varje dag patrullerar vi i djungeln, letar efter spår av Willard, stöter på Vietcong, bekämpar dem, ibland vinner vi, ibland får vi falla tillbaka för att ge oss ut igen dagen efter. Regnet fortsätter ösa men jag tror inte ens att någon bryr sig längre, allt vi, jag, tänker på är att hitta Willard, alla fångar vi tar hävdar att de inte vet något, även när vi sågar dem i bitar inför sina kamrater.</description>
+    </item>
+    
+    <item>
+      <title>27 oktober 1968</title>
+      <link>https://legionviking.se/vietnam/1968-10-27/</link>
+      <pubDate>Sun, 27 Oct 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-10-27/</guid>
+      <description>Kungen i Djungelns dagbok27 oktober 1968.
+I över en vecka har vi nu varit här, Objective Elephant, Kambodjas gräns, FOB Viking, döpt till de stupade legionärernas ära. Det är en lerhög, hela regionen är en lerhög, regnet har inte slutat falla sen vi kom hit, det bästa vi har kunnat hoppas på är en stund med duggregn när solen nästan kikar fram bakom molnen och gör allting ännu fuktigare, varje dag måste vi ösa ut vatten från vår bunker och rensa dräneringsrören i basen för att vi inte ska översvämmas helt, och ännu inget spår av Willard.</description>
+    </item>
+    
+    <item>
+      <title>19 oktober 1968</title>
+      <link>https://legionviking.se/vietnam/1968-10-19/</link>
+      <pubDate>Sat, 19 Oct 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-10-19/</guid>
+      <description>Kungen i Djungelns dagbok19 oktober 1968.
+Äntligen är vi framme, det är bara någon kilometer kvar, för någon timme sen lyckades vi radiokontakt med den sista amerikanska flygbasen som finns här, de lovade att skicka ner någon för att möta oss vid deras utpost vid floden som kommer att visa oss var Micke Bengtsson och MAC/SOG&amp;rsquo;s bas ligger, sedan åker vi dit och kan på allvar inleda jakten på Överste Willard.</description>
+    </item>
+    
+    <item>
+      <title>14 oktober 1968</title>
+      <link>https://legionviking.se/vietnam/1968-10-14/</link>
+      <pubDate>Mon, 14 Oct 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-10-14/</guid>
+      <description>Kungen i Djungelns dagbok14 oktober 1968.
+Nu börjar vi närma oss, även om vår navigatör inte ivrigt hade pekat på kartor och visat hur få dagar det beräknas vara kvar innan vi anländer till vår destination så känner jag det inom mig, vi är inte längre kvar i det ”vanliga” Vietnam, vi är på randen till något annat, här ute överlever bara de som har styrkan att möta striden, vi närmar oss snart området med de sista amerikanska utposterna innan vi når målet.</description>
+    </item>
+    
+    <item>
+      <title>9 oktober 1968</title>
+      <link>https://legionviking.se/vietnam/1968-10-09/</link>
+      <pubDate>Wed, 09 Oct 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-10-09/</guid>
+      <description>Kungen i Djungelns dagbok9 oktober 1968.
+Det har gått en vecka sen vi lämnade Da Krong-regionen och äntligen började röra oss mot vårat mål igen. Det börjar bli mer och mer glest mellan amerikanska utposter och sist vi kunde stanna och tanka och ta emot meddelanden från Micke och ledningen var för tre dagar sedan. Situationen vid vårat mål, Obj. Elephant ser fortfarande mörkt ut, Willard har inte setts till på länge men hans närvaro märks enligt Micke av tydligt.</description>
+    </item>
+    
+    <item>
+      <title>2 oktober 1968</title>
+      <link>https://legionviking.se/vietnam/1968-10-02/</link>
+      <pubDate>Wed, 02 Oct 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-10-02/</guid>
+      <description>Kungen i Djungelns dagbok2 oktober 1968.
+I några dagar nu har vi utfört patruller och sabotageinsatser mot NVA i dalarna, och de är nu redo att besegras, bra tajming. Båten är enligt mekanikerna nästan färdiglagad och vi kommer kunna vara härifrån redan imorgon. Men först måste vi knäcka NVA. En stor mängd marinsoldater har samlats vid Radio Relay Vandergrift för att till fots med luftunderstöd utföra en stor offensiv mot de västra kullarna, och nya soldater har flugits in från söder för att verkligen säkra regionen.</description>
+    </item>
+    
+    <item>
+      <title>29 september 1968</title>
+      <link>https://legionviking.se/vietnam/1968-09-29/</link>
+      <pubDate>Sun, 29 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-29/</guid>
+      <description>Kungen i Djungelns dagbok29 september 1968.
+Reservdelarna till båten är äntligen här, men det är även NVA. Enligt fångar vi tagit under spaningsuppdrag de senaste dagarna har de under den senaste veckan strömmat in och ockuperat hela höglandsområdet runt den sydvästra floden. Det är ett under att Radio Relay Vandergrift inte föll, marinkåren har nu förstärkt platsen med flertalet nya styrkor från sydost. Enligt de fångar vi tagit in så finns det ett stort tunnelnätverk nere i dalen som NVA under den senaste tiden sakta men säkert proppat full med de vapen och förnödenheter de behöver för att strida i regionen i veckor.</description>
+    </item>
+    
+    <item>
+      <title>27 september 1968</title>
+      <link>https://legionviking.se/vietnam/1968-09-27/</link>
+      <pubDate>Fri, 27 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-27/</guid>
+      <description>Kungen i Djungelns dagbok27 september 1968.
+Reservdelarna är äntligen på väg, men är självklart försenade, de har fastnat någonstans längre söderut och kommer inte anlända än på flera dagar. Som tröst har vi blivit utlovade ett nytt kassettband till båten och en granatkastare att montera. \
+Jag saknar den totalt pålitliga och fläckfria statliga post och pakethanteringen hemma i Sverige nu när man måste stå ut med jänkarnas transporter här i Vietnam, jag&amp;hellip; \</description>
+    </item>
+    
+    <item>
+      <title>24 september 1968</title>
+      <link>https://legionviking.se/vietnam/1968-09-24/</link>
+      <pubDate>Tue, 24 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-24/</guid>
+      <description>Kungen i Djungelns dagbok24 september 1968.
+Fortfarande fast. Floden söderut är öppnad nu och förnödenheter kan transporteras in men det kommer fortfarande dröja innan vi får reservdelarna till båten, någon hade ”glömt” att lägga beställningen. VC-aktiviteten i regionen är större än vi tror, det vi hittade förra veckan pekar på att även NVA börjar stationera trupper här. En del av mig vill bara vidare men en annan del inser att vi måste hålla floden öppen om jag någonsin vill få hem mina grabbar efter uppdraget, även om jag från början tvivlat på att någon av oss kommer att komma hem levande.</description>
+    </item>
+    
+    <item>
+      <title>20 september 1968, 1/2</title>
+      <link>https://legionviking.se/vietnam/1968-09-20-1/</link>
+      <pubDate>Fri, 20 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-20-1/</guid>
+      <description>Kungen i Djungelns dagbok20 september 1968.
+Vi är fast vid flygbasen sen vi anlände. Resan genom den trånga floden skadade båten ordentligt och ett flertal delar inklusive bitar av skrovet måste enligt marinkårens mekaniker bytas ut, och dessa reservdelar kommer vi inte kunna få på åtminstone en vecka. En del av mig misstänker att de överdriver problemen för att hålla kvar oss och dra nytta av våra förmågor, men vi kan inte göra något åt det, majoren som styr här har kommandot och vi kan bara lyda och hoppas att det löser sig.</description>
+    </item>
+    
+    <item>
+      <title>20 september 1968, 2/2</title>
+      <link>https://legionviking.se/vietnam/1968-09-20-2/</link>
+      <pubDate>Fri, 20 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-20-2/</guid>
+      <description>Kungen i Djungelns dagbok20 september 1968.
+Vietcongs närvaro i flodområdet var större än vi trodde, vi lyckades rensa ut kollaboratörer och eliminera ett flertal fiender i byarna men de har grävt in sig djupt i området, det har nu gått några timmar sen vi tvingades evakuera efter att flera legionärer blivit svårt skadade och vi har hunnit vila lite, men nu ska vi ut igen, tillbaka in i striden.</description>
+    </item>
+    
+    <item>
+      <title>16 september 1968</title>
+      <link>https://legionviking.se/vietnam/1968-09-16/</link>
+      <pubDate>Mon, 16 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-16/</guid>
+      <description>Kungen i Djungelns dagbok16 september 1968.
+Det har nu gått en vecka sen vi stormade flodmynningen och började vår färd, det har gått trögt. Flera gånger har våra kartläsare gjort misstag och vi har tvingats att färdas tillbaka i timtal för att hitta rätt väg, och om de inte gör misstag stoppas vi gång på gång av vegetation och lera och tvingas att röja och släpa båten genom leran för att inte fastna helt, det är frustrerande för alla i plutonen och det märks på humöret hos manskapet.</description>
+    </item>
+    
+    <item>
+      <title>12 september 1968</title>
+      <link>https://legionviking.se/vietnam/1968-09-12/</link>
+      <pubDate>Thu, 12 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-12/</guid>
+      <description>Kungen i Djungelns dagbok12 september 1968.
+Anfallet på flodmynningen gick som smort, och nu sitter vi äntligen i båten på väg mot vårt mål. Grabbarna är på gott humör, skojar och skrattar, men de vet inte hur långt upp för den här floden vi faktiskt ska resa.
+
+Jag har läst på mer om Överste Willard under de senaste dagarnas färd, både dokument från amerikanska armén samt dokument som Micke Bengtsson skickat oss om deras operationer nära gränsen.</description>
+    </item>
+    
+    <item>
+      <title>7 september 1968</title>
+      <link>https://legionviking.se/vietnam/1968-09-07/</link>
+      <pubDate>Sat, 07 Sep 1968 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/vietnam/1968-09-07/</guid>
+      <description>Kungen i Djungelns dagbok7 september 1968.
+Jag vaknade i morse och trodde att jag var ute i djungeln igen. Både jag och de andra börjar bli rastlösa nu, vi har varit sysslolösa i Saigon i över en månad. Tack och lov har vi ett nytt uppdrag.
+Micke informerade MACV/SOG&amp;rsquo;s ledning om att överste Willard, mannen som hade kommando över baserna i området där de tränar lokalinvånare att bekämpa vietcong och NVA har bytt sida, tagit med sig lojala trupper ut i djungeln och börjat föra ett gerillakrig mot sina tidigare soldater tillsammans med fienden.</description>
+    </item>
+    
+    <item>
+      <title>1945-03-16</title>
+      <link>https://legionviking.se/ww2/1945-03-16/</link>
+      <pubDate>Fri, 16 Mar 1945 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1945-03-16/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 16 Mars, 1945
+ Gällande: Operation Wolfstone Tack för ert kodade meddelande kapten. Det glädjer mig att höra att ni räddat en av piloterna och att överlöparen trots att han tagits tillfånga lyckades överlämna uppgifterna om General Oider och de övrigas position. Som vi misstänkte håller de till i slottet Rabenstein i området. Vi har tidigare fått uppgifter om att byn Reinsdorf som Rabenstein tornar upp sig över har varit ett av Hitlers favorit projekt där bara de absolut &amp;ldquo;bästa och mest renrasiga&amp;rdquo; får bosätta sig.</description>
+    </item>
+    
+    <item>
+      <title>1945-03-10</title>
+      <link>https://legionviking.se/ww2/1945-03-10/</link>
+      <pubDate>Sat, 10 Mar 1945 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1945-03-10/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 10 Mars, 1945
+ Gällande: Operation Wolfstone Kapten, äntligen har vi ett ordentligt uppdrag till män av er kaliber. Kriget går verkligen vår väg just nu och det är bara en tidsfråga innan vi intar Berlin och kan ställa Hitler inför krigsrätt. I öst trycker sovjeterna på och i väst har vi brutit oss in i Tyskland, närsomhelst kommer de att kapitulera.</description>
+    </item>
+    
+    <item>
+      <title>1945-01-01</title>
+      <link>https://legionviking.se/ww2/1945-01-01/</link>
+      <pubDate>Mon, 01 Jan 1945 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1945-01-01/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 1 Januari, 1945
+ Gällande: Operation Fireworks Först och främst: God jul och gott nytt år Kapten! Hälsa mannarna också, jag ska se till att ha lite julklappar redo åt er när ni kommer hem igen. Vill även tacka er för att ni mot alla odds har hållit Le Champ och beklagar att ni behövt spendera ännu en jul i skyttegravarna.</description>
+    </item>
+    
+    <item>
+      <title>1944-12-19</title>
+      <link>https://legionviking.se/ww2/1944-12-19/</link>
+      <pubDate>Tue, 19 Dec 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-12-19/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 19 December, 1944
+ Gällande: Operation Snowball Kapten, som ni vet så var den tyska offensiven i ardennerna en total överraskning för vår del, och jag beklagar att vi behöver kalla tillbaka er från er vila i Paris så kort inpå julafton, men alla styrkor som kan frammanas behövs nu (dock skall nämnas att klagomål över ert beteende i staden börjat komma in från andra befäl, jag vet inte vad &amp;ldquo;teabagging&amp;rdquo; är men det är tydligt inget man skall hålla på med påstår de).</description>
+    </item>
+    
+    <item>
+      <title>1944-09-22</title>
+      <link>https://legionviking.se/ww2/1944-09-22/</link>
+      <pubDate>Fri, 22 Sep 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-09-22/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 22 September, 1944
+ Gällande: Operation Market Garden, dag 6. &amp;ldquo;De skönaste planer, antingen de är uppgjorda av möss eller människor, går ofta om intet&amp;rdquo;, som Robert Burns en gång diktade. Det är mycket beklämmande att vår ledning och underättelsetjänst helt missat att två SS-pansardivisioner befinner sig i Holland, och jag beklagar att ni skickades in i Hoogveld i blindo på detta vis.</description>
+    </item>
+    
+    <item>
+      <title>1944-09-18</title>
+      <link>https://legionviking.se/ww2/1944-09-18/</link>
+      <pubDate>Mon, 18 Sep 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-09-18/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 18 September, 1944
+ Gällande: Operation Market Garden, forts. Kapten, jag hoppas att detta meddelande når er välbehållna. Det var tråkigt att höra att de 82a luftburna landade så tokigt till att de ej var stridsdugliga och att deras major beordrade er att hjälpa dem att förskansa sin position istället för att låta er själva säkra Hoogveld. Hade jag haft befälet i området hade jag tillåtit er att utföra anfallet på egen hand då jag inte tvivlar en sekund på er förmåga.</description>
+    </item>
+    
+    <item>
+      <title>1944-09-12</title>
+      <link>https://legionviking.se/ww2/1944-09-12/</link>
+      <pubDate>Tue, 12 Sep 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-09-12/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 12 September, 1944
+ Gällande: Operation Market Garden Kapten, först och främst vill jag tacka er för era insatser under Operation Overlord och övriga insatser i Frankrike under sommaren. Stormningen av Omaha beach och det närliggande området hade enligt min åsikt aldrig lyckats om det inte vore för er. Som ni vet så inleds om några dagar operationen &amp;ldquo;Market Garden&amp;rdquo; för att bryta igenom Holland och öppna en väg in till Tyskland för att förhoppningsvis avsluta kriget innan jul.</description>
+    </item>
+    
+    <item>
+      <title>1944-06-08</title>
+      <link>https://legionviking.se/ww2/1944-06-08/</link>
+      <pubDate>Thu, 08 Jun 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-06-08/</guid>
+      <description>Meddelande till Plutonchef &amp;ldquo;Geten&amp;rdquo; och Kommandogrupp Viking Från: Befälhavare Camilton Datum: 8 Juni, 1944 - D-Dagen +2
+ Gällande: Operation Overlord Det glädjer mig att äntligen kunna få kontakt med er igen, och att höra att ni lyckats utföra erat uppdrag vid kommandocentralen och dessutom ytterligare assisterat de amerikanska styrkorna med sitt uppdrag. Tyvärr är det inte över ännu. Amerikanska styrkor har inte lyckats säkra Colleville, byn öster om er nuvarande position i Le Bray.</description>
+    </item>
+    
+    <item>
+      <title>1944-06-06</title>
+      <link>https://legionviking.se/ww2/1944-06-06/</link>
+      <pubDate>Tue, 06 Jun 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-06-06/</guid>
+      <description>Plutonchef &amp;ldquo;Geten&amp;quot;s Personliga anteckningar Datum: 6 Juni, 1944 - D-Dagen
+ Gällande: Operation Overlord Vi landsteg under natten och gjorde vårat jobb. Det var kaos. När vi till sist nådde mötesplatsen var enbart ett par amerikanska fallskärmstrupper på plats. Många verkar ha släppts på fel platser och ett flertal är döda eller försvunna. Timmarna efter att vi anlände har fler och fler trupper lyckats hitta rätt och de jeepar som landsättes med glidflygplan har även hittat hit.</description>
+    </item>
+    
+    <item>
+      <title>1944-06-03</title>
+      <link>https://legionviking.se/ww2/1944-06-03/</link>
+      <pubDate>Sat, 03 Jun 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-06-03/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 3 Juni, 1944
+ Gällande: Operation Overlord. Kapten, det är äntligen dags. vilken dag som helst nu kommer vi att landstiga i Frankrike för att befria Europa från Hitlers klor. Så fort vädret lättar över kanalen är det dags. Amerikanska, brittiska och kanadensiska styrkor kommer att landstiga på Normandies stränder, men innan dess, under skydd av mörkret, kommer fallskärmstrupper landsättas bakom fiendens linjer.</description>
+    </item>
+    
+    <item>
+      <title>1944-01-13</title>
+      <link>https://legionviking.se/ww2/1944-01-13/</link>
+      <pubDate>Thu, 13 Jan 1944 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1944-01-13/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 13 Januari, 1944
+ Gällande: Operation Wrath of Gods. Vi har ett mycket viktigt uppdrag åt er. Den tyske forskaren Doktor Heinrich Knasmüller har lyckats ta kontakt med brittisk underättelsetjänst och vill gå över till vår sida. Han har de senaste åren jobbat med en topphemlig prototyp av en ny experimentell raket som enligt honom själv &amp;ldquo;kan slå ut mål med fruktansvärd position, när de väl fungerar som de ska&amp;hellip;&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>1943-10-22</title>
+      <link>https://legionviking.se/ww2/1943-10-22/</link>
+      <pubDate>Fri, 22 Oct 1943 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1943-10-22/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 22 Oktober, 1943
+ Gällande: Operation Iceberg. Vi har ett nytt uppdrag till er. Denna gång i nordsjön. Det topphemliga och tekniskt nyskapande amerikanska spaningskeppet USS Neptune har med sin nya teknik lyckats lokalisera en avancerad tysk signalspaningsbas på en ö någonstans utanför norges kust. Tidigt denna morgon skickade de kodsignalen för &amp;ldquo;Uppdrag Avklarat&amp;rdquo; vilket innebär att de har koordinaterna för basen ombord.</description>
+    </item>
+    
+    <item>
+      <title>1943-06-05</title>
+      <link>https://legionviking.se/ww2/1943-06-05/</link>
+      <pubDate>Sat, 05 Jun 1943 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1943-06-05/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 5 Juni, 1943
+ Gällande: Operation Greyhound. Vi har ett nytt uppdrag till er i medelhavet, denna gång på ön Provolone precis utanför siciliens kust. Om ungefär en månad kommer Operation Husky inledas, med målet att erövra Sicilien. Innan dess måste dock tyskarnas positioner försvagas. Vi har genom samarbete med kontakter på Sicilien fått nys om att en stor tysk konvoj med utrustning regelbundet parkerar utanför ön Provolone för att tanka och fylla på förnödenheter innan de åker vidare och understödjer resten av styrkorna på Sicilien.</description>
+    </item>
+    
+    <item>
+      <title>1943-03-02</title>
+      <link>https://legionviking.se/ww2/1943-03-02/</link>
+      <pubDate>Tue, 02 Mar 1943 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1943-03-02/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 2 Mars, 1943
+ Gällande: Operation Silver Gate. Som ni säkert känner till så använder tyskarna floden Donau för transport av förnödenheter och manskap från Tyskland till svarta havet och allt där i mellan. Samma flod har dock även använts av den mycket aktiva motståndrörelsen i Jugoslavien för att smuggla vapen och förnödenheter etc. Tyskarna byggde därför tidigt en blockerande damm med en sluss för att väldigt noga kunna kontrollera vilka som släpptes igenom i ett strategiskt område.</description>
+    </item>
+    
+    <item>
+      <title>1942-08-23</title>
+      <link>https://legionviking.se/ww2/1942-08-23/</link>
+      <pubDate>Sun, 23 Aug 1942 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1942-08-23/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 23 Augusti, 1942
+ Gällande: Operation Babylon. Grattis till den lyckade operationen i Tobruk. Jag förstår om er förhoppning var att få lämna afrika efter detta uppdrag då era insatser behövsa i andra delar av europa, men vi har ännu en uppgift åt er. Utifrån kartor och uppgifter ni fick med er från Agent 9 i Tobruk har vi äntligen kunnat säkerhetsställa positionen för ett tyskt flygfält i området som använts som bas för många förödande bombanfall mot våra positioner.</description>
+    </item>
+    
+    <item>
+      <title>1942-08-15</title>
+      <link>https://legionviking.se/ww2/1942-08-15/</link>
+      <pubDate>Sat, 15 Aug 1942 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1942-08-15/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 15 Augusti, 1942
+ Gällande: Operation Agamemnon.
+Kapten, det är först och främst med glädje jag mottog beskedet om att ni överlevt flygkraschen vid El Alamein. När jag först nåddes av information om att ni försvunnit från radarn och ej gick att nå befarade jag det värsta. Jag borde vid det här laget ha lärt mig att er grupp överlever det mesta trots omöjliga odds.</description>
+    </item>
+    
+    <item>
+      <title>1942-07-13</title>
+      <link>https://legionviking.se/ww2/1942-07-13/</link>
+      <pubDate>Mon, 13 Jul 1942 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1942-07-13/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 13 Juli, 1942
+ Gällande: Operation Nomad.
+Jag hoppas att er tid i medelhavssolen har gjort er gott Kapten. Det är nu dags för er att ta er till ännu varmare breddgrader, nämligen nordafrika där era insatser behövs oerhört mycket. Tobruk har fallit och tyskarna håller i detta nu på att anfalla El Alamein. Ni kommer omedelbart behöva påbörja er flygresa dit.</description>
+    </item>
+    
+    <item>
+      <title>1942-04-15</title>
+      <link>https://legionviking.se/ww2/1942-04-15/</link>
+      <pubDate>Wed, 15 Apr 1942 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1942-04-15/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 15 April, 1942
+ Gällande: Operation Iron Swarm.
+Välkommen till medelhavet Kapten. Om några dagar kommer en större bombräd utföras för att försöka slå ut tyska hamnar och skepp på Kreta som ju tyvärr föll till tyskarna förra året. Ett flertal kommandogrupper kommer att landsättas för att försöka slå ut luftvärn och dylikt inför denna insats då tidigare försök till bombningar har fått katastrofala resultat.</description>
+    </item>
+    
+    <item>
+      <title>1941-12-01</title>
+      <link>https://legionviking.se/ww2/1941-12-01/</link>
+      <pubDate>Mon, 01 Dec 1941 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1941-12-01/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 1 December, 1941
+ Gällande: Operation Liberator Först och främst vill jag gratulera er för er insats i Norge och uttrycka min glädje över att ni till sist tagit er tillbaka till vårat hemliga tillhåll i Sverige och fått ett par veckors välbehövlig vila. Dessvärre måste jag redan nu skicka ut er på en ny operation. Ett mycket känsligt läge har uppstått i det Karelska näset i Finland.</description>
+    </item>
+    
+    <item>
+      <title>1941-09-10</title>
+      <link>https://legionviking.se/ww2/1941-09-10/</link>
+      <pubDate>Wed, 10 Sep 1941 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1941-09-10/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; &amp;amp; Kampgrupp Viking Från: Befälhavare Camilton Datum: 10 September, 1941
+ Gällande: Operation Seawolf Välkomna in i aktiv tjänst. Ert första uppdrag blir ett mycket riskabelt sabotage i Norge. Vi har fått uppgifter från motståndsrörelsen som tyder på att tyskarna har en mycket välanvänd Ubåtsbas i Vinjesvingen. Som ni vet är dessa utbåtar ett oerhört hot mot de allierades fraktfartyg och alla chanser vi har att störa ut dessa operationer måste tas.</description>
+    </item>
+    
+    <item>
+      <title>1941-05-29</title>
+      <link>https://legionviking.se/ww2/1941-05-29/</link>
+      <pubDate>Thu, 29 May 1941 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/ww2/1941-05-29/</guid>
+      <description>Meddelande till: Plutonchef &amp;ldquo;Geten&amp;rdquo; Från: Befälhavare Camilton Datum: 29 Maj, 1941
+ Det glädjer mig något så oerhört att ni har åtagit er uppdraget att träna och leda de tappra volontärerna från Legion Viking i strid mot det tyska hotet. Som ni vet så anslöt sig en stor del av legionen till Tyskland efter vinterkrigets avslut och de som valt att gå över till de allierades sida är mestadels mycket nya rekryter eller rekryter med låg disciplin och mycket bristfällig erfarenhet av strid.</description>
+    </item>
+    
+  </channel>
+</rss>
