@@ -141,6 +141,18 @@ th, td {
     color: #717009;
 }
 
+.nuvarande {
+    color: #d95d0e;
+}
+
+.kommande {
+    color: #076678;
+}
+
+.avslutad {
+    color: #9d0006;
+}
+
 .kampanj a {
     color: #D18F21;
 }

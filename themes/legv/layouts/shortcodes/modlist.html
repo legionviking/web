@@ -6,17 +6,29 @@
         <th>Kampanjnamn</th>
         <th>Land</th>
         <th>Skapare</th>
+        <th>Status</th>
       </tr>
     </thead>
     <tbody>
   {{ $url := "static/mods/csv/current.csv" }}
   {{ $sep := "," }}
   {{ range $i, $r := getCSV $sep $url }}
+    {{ $status := index $r 4 }}
+    {{ if eq $status "current" }}
       <tr>
         <td><span class="kampanj"><a href="{{ index $r 2 }}">{{ index $r 0 }}</a></span></td>
         <td><span class="land">{{ index $r 1 }}</span></td>
         <td><span class="viking">{{ index $r 3 }}</span></td>
+        <td><span class="nuvarande">Nuvarande</span></td>
       </tr>
+    {{ else }}
+      <tr>
+        <td><span class="kampanj"><a href="{{ index $r 2 }}">{{ index $r 0 }}</a></span></td>
+        <td><span class="land">{{ index $r 1 }}</span></td>
+        <td><span class="viking">{{ index $r 3 }}</span></td>
+        <td><span class="kommande">Kommande</span></td>
+      </tr>
+    {{ end }}
   {{ end }}
     </tbody>
   </table>
@@ -28,6 +40,7 @@
         <th>Kampanjnamn</th>
         <th>Land</th>
         <th>Skapare</th>
+        <th>Status</th>
       </tr>
     </thead>
     <tbody>
@@ -38,6 +51,7 @@
         <td><span class="kampanj"><a href="{{ index $r 2 }}">{{ index $r 0 }}</a></span></td>
         <td><span class="land">{{ index $r 1 }}</span></td>
         <td><span class="viking">{{ index $r 3 }}</span></td>
+        <td><span class="avslutad">Avslutad</span></td>
       </tr>
   {{ end }}
     </tbody>
