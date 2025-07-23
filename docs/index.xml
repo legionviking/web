@@ -6,7 +6,18 @@
     <description>Recent content in Docs on Legion Viking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://legionviking.se/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lägga till LegionViking tagg på din profil i Arma3</title>
+      <link>https://legionviking.se/docs/squad/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionviking.se/docs/squad/</guid>
+      <description>Gå in i er profil ingame. Hitta det som heter “Player ID”, kopiera det och skicka till Ftmch eller Prosten på discord tillsammans med ert ingame-namn i detta format:
+Ftmch ID: 21412100401902941 I er profil ingame finns något som heter “squad URL” (ovanför ID), där ska ni kopiera in denna URL:
+https://squad.legionviking.se/squad.xml När vi har er player ID och användarnamn kommer vi att lägga in i er i squaden och då bör emblemet dyka upp på många av uniformerna i spelet (när man kör online) samt att klan-taggen (LEGV) kommer att dyka upp bredvid era namn osv.</description>
+    </item>
+    
     <item>
       <title>Uppdragsmakeri: Legionviking Ace Settings.</title>
       <link>https://legionviking.se/docs/acesettings/</link>
@@ -23,7 +34,7 @@
       
       <guid>https://legionviking.se/docs/useace/</guid>
       <description>UPPDATERING: Våra ACE-inställningar bör nu ligga serverside och därmed behöver ni inga ACE-moduler eller inställningar i uppdragen längre förutom Rallypoint-modulen. Enda undantaget är om ni vill overrida någon ACE-inställning specifikt för erat uppdrag, annars slipper ni.
-\
+
 Om jag har förstått det hela rätt så ställer man numera in allt (förutom vissa enstaka moduler som rallypointsystemet som ska synkas med units) i Addon Options. Här kan man välja vilka settings man vill ändra specifikt för uppdraget och vad som ska vara default etc.</description>
     </item>
     
@@ -34,7 +45,7 @@ Om jag har förstått det hela rätt så ställer man numera in allt (förutom v
       
       <guid>https://legionviking.se/docs/checklist/</guid>
       <description>När man snickrar ihop uppdrag är det en del att hålla reda på, och det är lätt att man missar någon grundläggande grejer som är störig att upptäcka när vi väl har kört igång, därför författar vi nu ihop en liten checklist med saker som är viktiga att kolla som man lätt kan glömma. (Bara att fylla på om ni kommer på något).
-  Startar uppdraget på dedikerade servern? \</description>
+  Startar uppdraget på dedikerade servern?</description>
     </item>
     
     <item>
@@ -44,10 +55,10 @@ Om jag har förstått det hela rätt så ställer man numera in allt (förutom v
       
       <guid>https://legionviking.se/docs/orbatview/</guid>
       <description>Arma 3 har ett ganska så roligt verktyg som kallas för ORBAT Viewer, där man kan visualisera hur ens trupper är uppdelade i grupper osv (det måste inte vara exlusivt det som är ute i fält).
-\
+
 Länk till dokumentationen: https://community.bistudio.com/wiki&amp;hellip;
 Länk till hjälpsamt youtubeklipp: https://www.youtube.com/watch?v=28e&amp;hellip;
-\
+
 Efter att ha lagt alldeles för många timmar på att få det att funka i ett testuppdrag så har jag fått en liten lista med gotchas som är bra att hålla koll på.</description>
     </item>
     
