@@ -61,32 +61,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Dagbok</title>
-      <link>https://legionviking.se/categories/dagbok/</link>
-      <pubDate>Sat, 04 Jan 1969 00:00:00 +0000</pubDate>
-      
-      <guid>https://legionviking.se/categories/dagbok/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vietnam</title>
-      <link>https://legionviking.se/categories/vietnam/</link>
-      <pubDate>Sat, 07 Sep 1968 00:00:00 +0000</pubDate>
-      
-      <guid>https://legionviking.se/categories/vietnam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ww2</title>
-      <link>https://legionviking.se/categories/ww2/</link>
-      <pubDate>Fri, 16 Mar 1945 00:00:00 +0000</pubDate>
-      
-      <guid>https://legionviking.se/categories/ww2/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
